@@ -1,0 +1,17 @@
+{
+  "name": "Wildcard Search",
+  "version": "1.0.0",
+  "description": "Plugin to support the wildcard search.",
+  "url": "https://github.com/wenzhixin/bootstrap-table/tree/master/src/extensions/wildcard-search",
+  "example": "#",
+
+  "plugins": [{
+    "name": "bootstrap-table-wildcard-search",
+    "url": "https://github.com/wenzhixin/bootstrap-table/tree/master/src/extensions/wildcard-search"
+  }],
+
+  "author": {
+    "name": "ZeroDotNet",
+    "image": "https://avatars1.githubusercontent.com/u/642426"
+  }
+}
