@@ -15,7 +15,6 @@ ar-MA
 arn-CL
 ar-OM
 ar-QA
-ar-SA
 ar-SY
 ar-TN
 ar-YE
@@ -63,7 +62,6 @@ es-EC
 es-ES
 es-GT
 es-HN
-es-MX
 es-PA
 es-PE
 es-PR
@@ -102,8 +100,6 @@ is-IS
 it-CH
 iu-Cans-CA
 iu-Latn-CA
-ja-JP
-ka-GE
 kk-KZ
 kl-GL
 km-KH
@@ -122,9 +118,7 @@ mn-Mong-CN
 moh-CA
 mr-IN
 ms-BN
-ms-MY
 mt-MT
-nb-NO
 ne-NP
 nl-BE
 nn-NO
@@ -134,13 +128,11 @@ or-IN
 pa-IN
 prs-AF
 ps-AF
-pt-PT
 qut-GT
 quz-BO
 quz-EC
 quz-PE
 rm-CH
-ro-RO
 rw-RW
 sah-RU
 sa-IN
@@ -148,7 +140,6 @@ se-FI
 se-NO
 se-SE
 si-LK
-sk-SK
 sl-SI
 sma-NO
 sma-SE
@@ -166,7 +157,6 @@ sr-Latn-CS
 sr-Latn-ME
 sr-Latn-RS
 sv-FI
-sv-SE
 sw-KE
 syr-SY
 ta-IN
@@ -177,7 +167,6 @@ tn-ZA
 tt-RU
 tzm-Latn-DZ
 ug-CN
-uk-UA
 uz-Cyrl-UZ
 uz-Latn-UZ
 wo-SN
